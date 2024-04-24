@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Portfolio from '/Users/jonathancampos/Desktop/React-Portfolio/React Portfolio/my-react-portfolio';
 
 function App() {
   return (

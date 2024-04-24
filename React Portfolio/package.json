@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.4.2",
+    "pretty": "^2.0.0"
+  }
+}
